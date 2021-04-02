@@ -1,1 +1,0 @@
-# -ngilizce-kelime-anlam-ve-telaffuz-veri-ekici-kaynak-kodlar-
